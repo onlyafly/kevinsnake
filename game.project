@@ -1,0 +1,13 @@
+[bootstrap]
+main_collection = /main/main.collectionc
+
+[project]
+title = KevinSnake
+
+[display]
+width = 768
+height = 768
+
+[script]
+shared_state = 1
+
